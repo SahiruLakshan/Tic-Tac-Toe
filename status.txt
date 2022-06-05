@@ -1,0 +1,10 @@
+X and O moves-Player vs Player
+--------------------
+Player1-O moved to 1
+Player2-X moved to 3
+Player1-O moved to 4
+Player2-X moved to 5
+Player1-O moved to 6
+Player2-X moved to 7
+
+Result:Player no 2 is win
